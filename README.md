@@ -11,11 +11,17 @@ A lightweight, command-line utility written in C for simulating dice rolls. It s
 ## Project Structure
 .
 ├── bin/            # Compiled binaries
+
 ├── doc/            # Project documentation
+
 ├── include/        # Header files (.h)
+
 ├── src/            # Source files (.c)
+
 ├── Makefile        # Build configuration
+
 └── README.md       # Project overview
+
 
 ## Build and Run
 
