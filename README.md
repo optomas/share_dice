@@ -9,7 +9,8 @@ A lightweight, command-line utility written in C for simulating dice rolls. It s
 - **Standard C:** Written in clean, standard C11 with no external dependencies.
 
 ## Project Structure
-.
+/home/theo/code/C/share_dice/
+
 ├── bin/            # Compiled binaries
 
 ├── doc/            # Project documentation
