@@ -37,9 +37,9 @@ make
 This will compile the source files and place the executable inside the `bin/` directory.
 
 ### Running the Utility
-Execute the compiled binary from the root directory, passing your desired dice roll as an argument:
+Execute the compiled binary from the project directory:
 
-./bin/dice_roll 3d6
+./bin/dice_roll 
 
 ### Cleaning Up
 To remove compiled object files and binaries, run:
