@@ -1,0 +1,9 @@
+# Ignore bin and build directories
+bin/
+build/
+doc/
+lib/
+tags
+*.log
+*.txt
+*.nunya
